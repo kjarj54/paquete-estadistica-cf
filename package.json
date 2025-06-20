@@ -1,0 +1,29 @@
+{
+  "name": "paquete-estadistica-cf",
+  "version": "1.0.0",
+  "description": "Funciones de estadistiva y generacion de graficas",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kjarj54/paquete-estadistica-cf.git"
+  },
+  "keywords": [],
+  "author": "Kevin Arauz",
+  "license": "MIT",
+  "type": "commonjs",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/kjarj54/paquete-estadistica-cf/issues"
+  },
+  "homepage": "https://github.com/kjarj54/paquete-estadistica-cf#readme",
+  "dependencies": {
+    "canvas": "^3.1.1",
+    "chart.js": "^4.5.0",
+    "chartjs-node-canvas": "^5.0.0"
+  }
+}
