@@ -1,5 +1,5 @@
 {
-  "name": "paquete-estadistica-cf",
+  "name": "@kjarj54/paquete-estadistica-cf",
   "version": "1.0.0",
   "description": "Funciones de estadistiva y generacion de graficas",
   "main": "index.js",
